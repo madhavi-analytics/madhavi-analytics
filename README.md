@@ -1,27 +1,22 @@
-# Hi there 👋 I'm Madhavi 
-
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Madhavi+(Tara);Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Python+Developer;Turning+Data+into+Insights" />
 </p>
+
+---
+
+# 💙 Madhavi 
 
 💡 Aspiring Data Scientist | AI & ML Enthusiast | Python Developer  
 
 ---
 
-## ✨ Welcome to My GitHub Profile
-
-<p align="center">
-  <b>🚀 Building skills in AI, ML & Data Science one project at a time 🚀</b>
-</p>
-
----
-
-## 🧠 About Me
-- 🎓 Diploma Graduate passionate about Artificial Intelligence  
-- 📊 Focused on Data Science, Machine Learning & Analytics  
-- 🐍 Skilled in Python, SQL, Excel, Tableau  
-- 🌱 Learning real-world project building & deployment  
-- 💬 I enjoy turning data into insights  
+## ✨ About Me
+- 🎓 Diploma Graduate passionate about Data Science & AI  
+- 📊 Focused on Machine Learning, Data Analytics & Visualization  
+- 🐍 Working with Python, SQL, Excel, Tableau  
+- 🌱 Learning real-world ML projects & deployment  
+- 💬 Love solving problems using data  
 
 ---
 
@@ -41,50 +36,60 @@
 ---
 
 ## 🚀 Featured Projects
-- 📊 Retail Sales Analysis — Data insights using Python & Excel  
-- 🏦 Loan Approval Prediction — ML classification models  
-- 🎬 Netflix Data Analysis — Visualization & trends  
-- 🍕 Pizza Hut Sales Dashboard — SQL analytics  
+
+🌍 **Country Clustering Analysis**  
+→ Unsupervised Learning (K-Means clustering based on socio-economic factors)
+
+📊 **Retail Sales Analysis**  
+→ Business insights using Python & Excel  
+
+🏦 **Loan Approval Prediction**  
+→ Machine Learning classification model  
+
+🎬 **Netflix Data Analysis**  
+→ Data visualization & trends  
+
+🍕 **Pizza Hut Sales Dashboard**  
+→ SQL-based analytics  
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Career Goals
+- Become a Data Scientist / AI Engineer  
+- Build strong end-to-end ML systems  
+- Contribute to open-source projects  
+- Work on real-world AI solutions  
+
+---
+
+## 💼 Let’s Connect
+
+📧 Email: **madhavpusarla28@gmail.com**  
+💼 LinkedIn: **www.linkedin.com/in/madhavi28**
+
+---
+
+## 📩 Hire Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+💡 Open for Internships | Data Science Roles | AI/ML Projects  
+</p>
+
+<p align="center">
+<a href="mailto:madhavipusarla28@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhavi28">
+  <img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 💙 Thank You
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/madhavi28">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:madhavipusarla28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
+<b>✨ Thanks for visiting my GitHub profile ✨</b><br>
+<i>Feel free to explore my projects and connect 😊</i>
 </p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=brightgreen&style=flat"/>
-</p>
-
----
-
-## 💖 Thank You for Visiting!
-
-<p align="center">
-  
-</p>
-
-<p align="center">
-  <b>✨ Thanks for stopping by my GitHub profile ✨</b><br>
-  <i>Feel free to explore my projects and connect with me 😊</i>
-</p>
-
