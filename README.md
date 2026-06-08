@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Madhavi+(Tara);Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Python+Developer;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Madhavi;Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Python+Developer;Turning+Data+into+Insights" />
 </p>
 
 ---
 
-# 💙 Madhavi 
+# Madhavi Pusarla 
 
 💡 Aspiring Data Scientist | AI & ML Enthusiast | Python Developer  
 
