@@ -72,7 +72,7 @@
 ## 📩 Hire Me
 
 <p align="center">
-💡 Open for Internships | Data Science Roles | AI/ML Projects  
+💡 Open for Internships | Data Science Roles | AI/ML Projects |Data Analyst 
 </p>
 
 <p align="center">
