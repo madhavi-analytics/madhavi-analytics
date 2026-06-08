@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Madhavi
 
-<!--
-**madhavi-analytics/madhavi-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Electronics and communication engineering|passionate about Data Science, AI & Machine Learning.
 
-Here are some ideas to get you started:
+💡 I am interested in Data Analytics, Machine Learning, and solving real-world problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills & Tools:
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Machine Learning
+- Deep Learning 
+- Data Analysis
+
+📂 Featured Projects:
+🔹 Loan Approval Prediction  
+🔹 Retail Sales Analysis  
+🔹 Netflix Content Analysis using Python & Tableau  
+🔹 Pizza Hut Sales Analysis using SQL  
+🔹 Blinkit Sales Analysis using Excel  
+🔹 Country Clustering using Machine Learning
+
+🌱 Currently Learning:
+- Advanced Machine Learning
+- Data Analytics
+- AI Development
+
+🎯 Career Goal:
+To build a strong career in Data Science & AI/ML and work on impactful real-world projects.
+
+📫 Let's Connect:
+LinkedIn: https://www.linkedin.com/in/madhavi28
+
+✨ “Learning, Building, and Growing Every Day”
+
