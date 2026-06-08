@@ -80,7 +80,7 @@
 ## 💖 Thank You for Visiting!
 
 <p align="center">
-   src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
+  
 </p>
 
 <p align="center">
