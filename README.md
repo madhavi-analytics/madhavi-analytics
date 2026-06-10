@@ -40,9 +40,6 @@
 🌍 **Country Clustering Analysis**  
 → Unsupervised Learning (K-Means clustering based on socio-economic factors)
 
-📊 **Retail Sales Analysis**  
-→ Business insights using Python & Excel  
-
 🏦 **Loan Approval Prediction**  
 → Machine Learning classification model  
 
